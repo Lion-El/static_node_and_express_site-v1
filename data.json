@@ -6,7 +6,7 @@
                 "project_name": "Love Running",
                 "description": "A digital platform for all the running enthusiasts",
                 "technologies": ["HTML", "CSS"],
-                "live-link": "https://lion-el.github.io/love-running/",
+                "live_link": "https://lion-el.github.io/love-running/",
                 "github_link": "https://github.com/Lion-El/love-running",
                 "image_urls": [
                                 "image/lion-el.github.io_love-running_.png", 
@@ -19,7 +19,7 @@
                 "project_name": "Enigma",
                 "description": "Art therapy - Community support group website",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live-link": "https://lion-el.github.io/enigma/",
+                "live_link": "https://lion-el.github.io/enigma/",
                 "github_link": "https://github.com/Lion-El/enigma",
                 "image_urls": [
                                 "image/lion-el.github.io_enigma_.png", 
@@ -32,7 +32,7 @@
                 "project_name": "Quote_generator",
                 "description": "An inspriational quote web application ",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live-link": "https://lion-el.github.io/a_random_quote_generator-v1/",
+                "live_link": "https://lion-el.github.io/a_random_quote_generator-v1/",
                 "github_link": "https://github.com/Lion-El/a_random_quote_generator-v1",
                 "image_urls": [
                                 "image/lion-el.github.io_a_random_quote_generator-v1_ (1).png", 
@@ -45,12 +45,12 @@
                 "project_name": "data-pagination-and-filtering",
                 "description": "A university student member database",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live-link": "https://lion-el.github.io/data-pagination-and-filtering-v1/",
+                "live_link": "https://lion-el.github.io/data-pagination-and-filtering-v1/",
                 "github_link": "https://github.com/Lion-El/data-pagination-and-filtering-v1",
                 "image_urls": [
                                 "image/lion-el.github.io_data-pagination-and-filtering-v1_.png", 
                                 "image/lion-el.github.io_data-pagination-and-filtering-v1_ (1).png", 
-                                "image/lion-el.github.io_data-pagination-and-filtering-v1_ (2)"
+                                "image/lion-el.github.io_data-pagination-and-filtering-v1_ (2).png"
                               ]
             },
             {
@@ -58,12 +58,12 @@
                 "project_name": "interactive-form",
                 "description": "An interactive and dynamic registration form for a Full Stack conference",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live-link": "https://lion-el.github.io/interactive-form-v3/",
+                "live_link": "https://lion-el.github.io/interactive-form-v3/",
                 "github_link": "https://github.com/Lion-El/interactive-form-v3",
                 "image_urls": [
                                 "image/lion-el.github.io_interactive-form-v3_.png", 
                                 "image/lion-el.github.io_interactive-form-v3_ (1).png", 
-                                "image/lion-el.github.io_interactive-form-v3_ (2)"
+                                "image/lion-el.github.io_interactive-form-v3_ (2).png"
                               ]
             },
             {
@@ -71,12 +71,26 @@
                 "project_name": "student-files",
                 "description": "student directory application",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live-link": "https://lion-el.github.io/student-files/",
+                "live_link": "https://lion-el.github.io/student-files/",
                 "github_link": "https://github.com/Lion-El/student-files",
                 "image_urls": [
                                 "image/lion-el.github.io_student-files_.png", 
                                 "image/lion-el.github.io_student-files_ (1).png", 
                                 "image/lion-el.github.io_student-files_ (2).png"
+                              ]
+            },
+            {
+                "id": 6,
+                "project_name": "OOP Game",
+                "description": "Phrase gessing game application",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://lion-el.github.io/oop_game-v2/",
+                "github_link": "https://github.com/Lion-El/oop_game-v2",
+                "image_urls": [
+                                "image/lion-el.github.io_oop_game-v2_.png", 
+                                "image/lion-el.github.io_oop_game-v2_ (1).png", 
+                                "image/lion-el.github.io_oop_game-v2_ (2).png",
+                                "image/lion-el.github.io_oop_game-v2_ (3).png"
                               ]
             }
         ]
