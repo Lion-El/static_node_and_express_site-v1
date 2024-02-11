@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  div
+    h1= `404 - Page Not Found`
+    p= `Hey!  The page you're looking for does not exist.`
+
+    a(href=`/`) Home
+
+    if err
+
+      div
+        hr
+        pre #{err.stack}

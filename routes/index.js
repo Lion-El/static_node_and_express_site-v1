@@ -11,20 +11,18 @@ router.get('/', (req, res) => {
 
 // Render about page
 router.get('/about', (req, res) => {
-    res.render('about');
+    res.render('abut');
 });
 
 // render individual project
-router.get('/project/:id', (req, res) => {
-    res.locals.project = data.projects;
-    const id = req.params.id;
+router.get('/project/:id', (req, res, next) => {
+    res.locals.id = req.params.id;
 
-    if (projects[id]) {
-        res.render('project', { id });
+    if (projects[req.params.id]) {
+        res.render('project', { project: projects });
     } else {
-        const err = new Error('Hey! That webpage does not exist');
+        const err = new Error();
         err.status = 404;
-        console.log(`${err.message} (error:${err.status})`);
         next(err);
     }
 });

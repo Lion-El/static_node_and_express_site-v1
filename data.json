@@ -10,6 +10,7 @@
                 "github_link": "https://github.com/Lion-El/love-running",
                 "image_urls": [
                                 "image/lion-el.github.io_love-running_.png", 
+                                "image/lion-el.github.io_love-running_landing.png",
                                 "image/lion-el.github.io_love-running_gallery.png", 
                                 "image/lion-el.github.io_love-running_sign-up.png"
                               ]
@@ -22,35 +23,38 @@
                 "live_link": "https://lion-el.github.io/enigma/",
                 "github_link": "https://github.com/Lion-El/enigma",
                 "image_urls": [
-                                "image/lion-el.github.io_enigma_.png", 
-                                "image/lion-el.github.io_enigma_ (1).png", 
-                                "image/lion-el.github.io_enigma_carnival.html.png"
+                                "image/lion-el.github.io_enigma_.png",
+                                "image/lion-el.github.io_enigma_1.png", 
+                                "image/lion-el.github.io_enigma_visual-arts.png",
+                                "image/lion-el.github.io_enigma_carnival.png"
                               ]
             },
             {
                 "id": 2,
                 "project_name": "Quote_generator",
-                "description": "An inspriational quote web application ",
+                "description": "A random quote web application ",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://lion-el.github.io/a_random_quote_generator-v1/",
                 "github_link": "https://github.com/Lion-El/a_random_quote_generator-v1",
                 "image_urls": [
-                                "image/lion-el.github.io_a_random_quote_generator-v1_ (1).png", 
-                                "image/lion-el.github.io_a_random_quote_generator-v1_ (4).png", 
-                                "image/lion-el.github.io_a_random_quote_generator-v1_ (9).png"
+                                "image/lion-el.github.io_a_random_quote_generator-v1.png", 
+                                "image/lion-el.github.io_a_random_quote_generator-v1_1.png", 
+                                "image/lion-el.github.io_a_random_quote_generator-v1_2.png",
+                                "image/lion-el.github.io_a_random_quote_generator-v1_3.png"
                               ]
             },
             {
                 "id": 3,
                 "project_name": "data-pagination-and-filtering",
-                "description": "A university student member database",
+                "description": "A university student directory",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://lion-el.github.io/data-pagination-and-filtering-v1/",
                 "github_link": "https://github.com/Lion-El/data-pagination-and-filtering-v1",
                 "image_urls": [
                                 "image/lion-el.github.io_data-pagination-and-filtering-v1_.png", 
-                                "image/lion-el.github.io_data-pagination-and-filtering-v1_ (1).png", 
-                                "image/lion-el.github.io_data-pagination-and-filtering-v1_ (2).png"
+                                "image/lion-el.github.io_data-pagination-and-filtering-v1_1.png", 
+                                "image/lion-el.github.io_data-pagination-and-filtering-v1_2.png",
+                                "image/lion-el.github.io_data-pagination-and-filtering-v1_3.png"
                               ]
             },
             {
@@ -62,35 +66,37 @@
                 "github_link": "https://github.com/Lion-El/interactive-form-v3",
                 "image_urls": [
                                 "image/lion-el.github.io_interactive-form-v3_.png", 
-                                "image/lion-el.github.io_interactive-form-v3_ (1).png", 
-                                "image/lion-el.github.io_interactive-form-v3_ (2).png"
+                                "image/lion-el.github.io_interactive-form-v3_1.png", 
+                                "image/lion-el.github.io_interactive-form-v3_2.png",
+                                "image/lion-el.github.io_interactive-form-v3_3.png"
                               ]
             },
             {
                 "id": 5,
                 "project_name": "student-files",
-                "description": "student directory application",
+                "description": "A student directory",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://lion-el.github.io/student-files/",
                 "github_link": "https://github.com/Lion-El/student-files",
                 "image_urls": [
                                 "image/lion-el.github.io_student-files_.png", 
-                                "image/lion-el.github.io_student-files_ (1).png", 
-                                "image/lion-el.github.io_student-files_ (2).png"
+                                "image/lion-el.github.io_student-files_1.png", 
+                                "image/lion-el.github.io_student-files_2.png",
+                                "image/lion-el.github.io_student-files_3.png"
                               ]
             },
             {
                 "id": 6,
                 "project_name": "OOP Game",
-                "description": "Phrase gessing game application",
+                "description": " A phrase guessing game",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://lion-el.github.io/oop_game-v2/",
                 "github_link": "https://github.com/Lion-El/oop_game-v2",
                 "image_urls": [
                                 "image/lion-el.github.io_oop_game-v2_.png", 
-                                "image/lion-el.github.io_oop_game-v2_ (1).png", 
-                                "image/lion-el.github.io_oop_game-v2_ (2).png",
-                                "image/lion-el.github.io_oop_game-v2_ (3).png"
+                                "image/lion-el.github.io_oop_game-v2_1.png", 
+                                "image/lion-el.github.io_oop_game-v2_2.png",
+                                "image/lion-el.github.io_oop_game-v2_3.png"
                               ]
             }
         ]
